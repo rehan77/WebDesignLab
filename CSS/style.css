@@ -75,3 +75,23 @@ footer{
 .social-media i{
 	margin-right: 5px;
 }
+.gallery{
+	text-align: center;
+}
+.gallery h1{
+	font-size: 24px;
+}
+.gallery figure{
+	display: inline-block;
+	border: 1px solid black;
+	position: relative;
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+	font-style: italic;
+}
+.gallery figure img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
