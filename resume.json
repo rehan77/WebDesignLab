@@ -1,0 +1,16 @@
+{
+	"basics": {
+		"email":"rehanshaikh4373@gmail.com",
+		"name":"Shaikh Mohammed Rehan",
+		"phone":"Please mail me",
+		"summary":"lorem ipsum dolor",
+		"location":{
+			"city":"Mumbai",
+			"region":"Mumbai Metropolitan Region(MMR)",
+			"state":"Maharashtra",
+			"country":"India",
+			"countryCode":"IN"
+		}
+	},
+	"education": []
+}
