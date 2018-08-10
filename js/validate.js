@@ -36,10 +36,13 @@ function checkSubject(e){
 }
 
 function submitForm(e){
+
 	e.preventDefault();
-	if(document.getElementById('user-email').value!="" && document.getElementById('Subject').value!="" && document.getElementById('Message').value!=""){
-		var contact=document
+	if(document.getElementById('user-emial').value!="" && document.getElementById('message').value!=""){
+		var contact=document.getElementsByClass('contact-form');
+		contact[0].innerHTML = "<h3>Thank You for Feedback. I'll get you shortly"
 	}
+
 
 }
 
